@@ -1,13 +1,70 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-16T22:19:26+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Eyam Sports Association</title><subtitle>The Eyam Sports Association concerns itself with associating sports with the plague village of Eyam.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2019/07/16/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-07-16T21:05:48+01:00</published><updated>2019-07-16T21:05:48+01:00</updated><id>http://localhost:4000/jekyll/update/2019/07/16/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/07/16/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-16T22:41:46+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Eyam Sports Association</title><subtitle>The Eyam Sports Association concerns itself with associating sports with the plague village of Eyam.</subtitle><entry><title type="html">Minutes</title><link href="http://localhost:4000/minutes/2019/06/27/minutes.html" rel="alternate" type="text/html" title="Minutes" /><published>2019-06-27T19:05:48+01:00</published><updated>2019-06-27T19:05:48+01:00</updated><id>http://localhost:4000/minutes/2019/06/27/minutes</id><content type="html" xml:base="http://localhost:4000/minutes/2019/06/27/minutes.html">&lt;h1 id=&quot;minutes-of-eyam-sports-association--meeting-thursday-270619&quot;&gt;MINUTES OF EYAM SPORTS ASSOCIATION  MEETING THURSDAY 27/06/19&lt;/h1&gt;
+&lt;p&gt;Present:  Stafford Rowland, Paul Humphries, Judith Hancock, Freddie Campbell-Bans, Diana Cameron, Marjorie Davies, David Lomas, Peter Jackson,
+APOLOGIES:&lt;br /&gt;
+Adrian Webster
+Diana Cameron
+Sarah Jackson&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;../../../../assets/2019-06-27/agenda.docx&quot;&gt;Agenda&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;../../../../assets/2019-06-27/minutes.docx&quot;&gt;Minutes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;../../../../assets/2019-06-27/pitchReport.pdf&quot;&gt;Pitch Report&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;../../../../assets/2019-06-27/playArea.docx&quot;&gt;Play Area&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;h2 id=&quot;declaration-of-personal-interest&quot;&gt;DECLARATION OF PERSONAL INTEREST&lt;/h2&gt;
+&lt;p&gt;Aaron Pritzlaff: Eyam Half marathon&lt;/p&gt;
+&lt;h2 id=&quot;minutes-of-last-meeting-approved-as-an-accurate-record&quot;&gt;MINUTES OF LAST MEETING APPROVED AS AN ACCURATE RECORD&lt;/h2&gt;
+&lt;p&gt;Proposed: Judith Hancock
+Seconded: David Lomas
+MATTERS ARISING FROM THE MINUTES
+The proposed change to the footpath from the Glebe estate and leading up to the Youth Hostel. It was agreed that ESA would send a letter of objection to this planned change to DDC.  Diana Cameron to send this letter.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;h2 id=&quot;reports-from-sub-groups&quot;&gt;REPORTS FROM SUB-GROUPS&lt;/h2&gt;
+&lt;p&gt;Children’s play area: Diana Cameron
+The play area report was presented.  A copy is attached.
+The ROSPA report 2019 highlighted a number of issues:
+The gate at the rear end of the MUGA needs attention.
+The electricity supply box needs securing as it was being accessed without the use of tokens and was secured with a wire.
+The basket-ball nets must be removed and a missing bolt replaced and repainting was required.
+Trip hazards at both entrances to the MUGA. They needed attention.
+MUGA&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;Football pitch/Cricket pitch
+Peter presented his report. A copy is attached.&lt;/p&gt;
+
+&lt;p&gt;Pavilion
+The plans had been presented to Peak Park Planning for outline approval, this was ongoing because the Peak Park planning were dealing with a backlog of planning appeals.&lt;/p&gt;
+
+&lt;p&gt;5.TENNIS CLUB
+Angela Cleverley and Rachel Wright presented their proposals for the Tennis Club.  They wanted to pay £30 for 6 months or £15 for 3 months. The committee felt this was unfair since the football club (veterans and Juniors) pay £12 per hour. It was agreed that : The tennis club should:&lt;/p&gt;
+
+&lt;p&gt;Pay £30 per couple/family for 3 months. £ 15 if for one month.
+This was for 3 months July, August, September.
+All participants should be members of ESA. A list of names and membership numbers would be needed. 
+An  advert to be placed around the village to attract more members.
+The payment to be made to ESA via any committee member.
+A sign to be sourced which said “ Booked by Eyam Tennis Club” to be placed on the MUGA.
+Unlimited use as long as they checked existing bookings with Adrian Webster.&lt;/p&gt;
+
+&lt;h2 id=&quot;membership&quot;&gt;MEMBERSHIP&lt;/h2&gt;
+&lt;p&gt;Paul passed on some more membership forms to Freddie.&lt;/p&gt;
+
+&lt;h2 id=&quot;finances&quot;&gt;FINANCES&lt;/h2&gt;
+&lt;p&gt;The coffee morning had raised £482. Marjorie Davies had presented a cheque to ESA for £500 in memory of John Davies to be used for Carnival expenses. £440 had been raised by the 200 club.
+The insurance was £2879?&lt;/p&gt;
+
+&lt;h2 id=&quot;repairs-and-maintenance&quot;&gt;REPAIRS AND MAINTENANCE&lt;/h2&gt;
+&lt;p&gt;The lighting control box to be made secure.&lt;/p&gt;
+
+&lt;p&gt;FELL RACE
+The committee approved the purchase of a shield/trophy in memory of Archie Hartwright.&lt;/p&gt;
+
+&lt;p&gt;A.O.B&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;The footpath behind the churchyard needed some attention because it was a trip hazard.&lt;/li&gt;
+  &lt;li&gt;Aaron Pritzlaff was continuing his work with looking into the upgrading of the ESA website.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Next meeting 7.30pm 18/07/19 Mechanics&lt;/p&gt;</content><author><name></name></author><summary type="html">MINUTES OF EYAM SPORTS ASSOCIATION MEETING THURSDAY 27/06/19 Present: Stafford Rowland, Paul Humphries, Judith Hancock, Freddie Campbell-Bans, Diana Cameron, Marjorie Davies, David Lomas, Peter Jackson, APOLOGIES: Adrian Webster Diana Cameron Sarah Jackson</summary></entry></feed>

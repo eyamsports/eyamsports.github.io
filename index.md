@@ -5,4 +5,13 @@
 layout: home
 ---
 
-<h1>{{ "Hello World!" | downcase }}</h1>
+
+<img src="{{site.baseurl}}/assets/img/Eyam_Church.jpg" />
+
+
+The Eyam Sports Association is made up local volunteers who contribute to promote sport in Eyam,
+as well as oversee ongoing maintainance of the cricket pitch, football pitch and play area/MUGA.
+
+
+We meet typically on the last Thursday of the month, the next meeting scheduled for 18th July at 7.30pm at the Mechanics.
+
