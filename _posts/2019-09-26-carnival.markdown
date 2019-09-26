@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Carnival"
+---
+Carnival was a lot of fun - a very big thanks to Judith and all who got involved!
+
+<img src="{{site.baseurl}}/assets/2019-09-26-carnival/IMG_0862.jpg" />
+<br />
+<br />
+<img src="{{site.baseurl}}/assets/2019-09-26-carnival/IMG_0863.jpg" />
+<br />
+<br />
+<img src="{{site.baseurl}}/assets/2019-09-26-carnival/IMG_0868.jpg" />
+<br />
+<br />
+<img src="{{site.baseurl}}/assets/2019-09-26-carnival/IMG_0866.jpg" />
+<br />
+<br />
+<img src="{{site.baseurl}}/assets/2019-09-26-carnival/IMG_0886.jpg" />
+<br />
+<br />
+<img src="{{site.baseurl}}/assets/2019-09-26-carnival/IMG_0871.jpg" />
+<br />
+<br />
+<img src="{{site.baseurl}}/assets/2019-09-26-carnival/IMG_0858.jpg" />
