@@ -13,4 +13,4 @@ The Eyam Sports Association is made up local volunteers who contribute to promot
 as well as oversee ongoing maintainance of the cricket pitch, football pitch and play area/MUGA.
 
 
-We meet typically on the last Thursday of the month, the next meeting scheduled for 26th Sept at 7.30pm at the Mechanics.
+We meet typically on the last Thursday of the month, the next meeting scheduled for 24th October at 7.30pm at the Mechanics.

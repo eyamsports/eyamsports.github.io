@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Minutes"
+title:  "Minutes June 2019"
 date:   2019-06-27 19:05:48 +0100
 categories: minutes
 ---

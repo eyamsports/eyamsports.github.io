@@ -1,16 +1,19 @@
 ---
 layout: post
-title:  "Carnival"
+title:  "Carnival 2019"
 ---
+<div class="blog">
+<p>
 Carnival was a lot of fun - a very big thanks to Judith and all who got involved!
+</p>
 
-<img src="{{site.baseurl}}/assets/2019-09-26-carnival/IMG_0862.jpg" />
+<img src="{{site.baseurl}}/assets/2019-09-26-carnival/IMG_0862.jpg" class="rotate90"/>
 <br />
 <br />
-<img src="{{site.baseurl}}/assets/2019-09-26-carnival/IMG_0863.jpg" />
+<img src="{{site.baseurl}}/assets/2019-09-26-carnival/IMG_0863.jpg"  class="rotate90"/>
 <br />
 <br />
-<img src="{{site.baseurl}}/assets/2019-09-26-carnival/IMG_0868.jpg" />
+<img src="{{site.baseurl}}/assets/2019-09-26-carnival/IMG_0868.jpg"  class="rotate90" style="margin-bottom: 80px"/>
 <br />
 <br />
 <img src="{{site.baseurl}}/assets/2019-09-26-carnival/IMG_0866.jpg" />
@@ -23,3 +26,4 @@ Carnival was a lot of fun - a very big thanks to Judith and all who got involved
 <br />
 <br />
 <img src="{{site.baseurl}}/assets/2019-09-26-carnival/IMG_0858.jpg" />
+</div>
